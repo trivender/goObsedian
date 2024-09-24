@@ -1,0 +1,5 @@
+---
+keywords: Email validation code
+---
+
+/^.+?@.+?\..+$/

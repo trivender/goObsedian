@@ -1,0 +1,1 @@
+- [ ] #sg python installation and OCR
